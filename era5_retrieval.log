@@ -1,0 +1,82 @@
+2024-11-17 19:43:59,836 - INFO - Retrieving data for 2020-11
+2024-11-17 19:44:01,673 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:44:01,675 - INFO - Request ID is 207ad4bc-9721-4e16-b963-f07db3bd4aa4
+2024-11-17 19:44:02,589 - INFO - status has been updated to accepted
+2024-11-17 19:44:04,312 - INFO - status has been updated to running
+2024-11-17 19:44:58,101 - INFO - status has been updated to successful
+2024-11-17 19:44:59,489 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/94596468c920d7733b6fc1a69e5ded11.nc
+2024-11-17 19:45:27,284 - INFO - Successfully downloaded era5_data\era5_2020_11.nc
+2024-11-17 19:45:32,294 - INFO - Retrieving data for 2020-12
+2024-11-17 19:45:34,386 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:45:34,389 - INFO - Request ID is f073a9bf-6396-4e7c-a71d-63b2bac29bcc
+2024-11-17 19:45:34,817 - INFO - status has been updated to accepted
+2024-11-17 19:45:38,364 - INFO - status has been updated to running
+2024-11-17 19:46:27,992 - INFO - status has been updated to successful
+2024-11-17 19:46:30,021 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/17191cfae8a817905dd3846f2ad73ace.nc
+2024-11-17 19:46:48,966 - INFO - Successfully downloaded era5_data\era5_2020_12.nc
+2024-11-17 19:46:53,971 - INFO - Retrieving data for 2020-01
+2024-11-17 19:46:55,335 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:46:55,337 - INFO - Request ID is 31a9c734-f17a-407c-b993-aaf87ef33984
+2024-11-17 19:46:55,804 - INFO - status has been updated to accepted
+2024-11-17 19:46:59,404 - INFO - status has been updated to running
+2024-11-17 19:47:06,101 - INFO - status has been updated to accepted
+2024-11-17 19:47:11,584 - INFO - status has been updated to running
+2024-11-17 19:48:15,531 - INFO - status has been updated to successful
+2024-11-17 19:48:19,888 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b5713c0fc2e93e5eaa2f73fe5d72d751.nc
+2024-11-17 19:48:30,896 - INFO - Successfully downloaded era5_data\era5_2020_01.nc
+2024-11-17 19:48:35,905 - INFO - Retrieving data for 2020-02
+2024-11-17 19:48:37,539 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:48:37,542 - INFO - Request ID is 0b94c20e-24f8-4509-afc5-49609dfb813f
+2024-11-17 19:48:37,970 - INFO - status has been updated to accepted
+2024-11-17 19:48:41,399 - INFO - status has been updated to running
+2024-11-17 19:49:31,694 - INFO - status has been updated to successful
+2024-11-17 19:49:33,235 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/7a47754be08ac75edc9bf9dec591a98b.nc
+2024-11-17 19:50:03,310 - INFO - Successfully downloaded era5_data\era5_2020_02.nc
+2024-11-17 19:50:08,319 - INFO - Retrieving data for 2020-03
+2024-11-17 19:50:11,170 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:50:11,172 - INFO - Request ID is 28ef174a-636a-4b03-909a-1e7c5086a92a
+2024-11-17 19:50:11,870 - INFO - status has been updated to accepted
+2024-11-17 19:50:15,816 - INFO - status has been updated to running
+2024-11-17 19:50:22,869 - INFO - status has been updated to accepted
+2024-11-17 19:50:28,748 - INFO - status has been updated to running
+2024-11-17 19:51:06,397 - INFO - status has been updated to successful
+2024-11-17 19:51:10,189 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/493d1a84364ee0b4998c1b8e44a6261.nc
+2024-11-17 19:51:46,539 - INFO - Successfully downloaded era5_data\era5_2020_03.nc
+2024-11-17 19:51:51,548 - INFO - Retrieving data for 2021-11
+2024-11-17 19:51:53,365 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:51:53,367 - INFO - Request ID is 8a711334-6d14-42f2-a3ce-98cfcd8aa350
+2024-11-17 19:51:54,041 - INFO - status has been updated to accepted
+2024-11-17 19:52:07,086 - INFO - status has been updated to running
+2024-11-17 19:52:50,858 - INFO - status has been updated to successful
+2024-11-17 19:52:51,913 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/f363bef6e70757b46cc5f8eb363b3dc1.nc
+2024-11-17 19:53:15,837 - INFO - Successfully downloaded era5_data\era5_2021_11.nc
+2024-11-17 19:53:20,853 - INFO - Retrieving data for 2021-12
+2024-11-17 19:53:22,355 - WARNING - [2024-10-10T00:00:00] The final validated ERA5 differs from ERA5T from July 2024 until further notice - please refer to our
+[Forum announcement](https://forum.ecmwf.int/t/final-validated-era5-product-to-differ-from-era5t-in-july-2024/6685)
+for details and watch it for further updates on this.
+2024-11-17 19:53:22,357 - INFO - Request ID is adf569ae-7221-4d99-a9ce-a8bc55ea09c8
+2024-11-17 19:53:22,787 - INFO - status has been updated to accepted
+2024-11-17 19:53:26,447 - INFO - status has been updated to running
+2024-11-17 19:54:17,789 - INFO - status has been updated to successful
+2024-11-17 19:54:18,716 - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/d3b81914980bbfd43caa545ca89d866.nc
+2024-11-17 19:54:36,617 - INFO - Successfully downloaded era5_data\era5_2021_12.nc
+2024-11-17 19:54:41,654 - WARNING - No such comm: 918f3f0a159144b2a33365f8a95097e0
+2024-11-17 19:54:41,666 - WARNING - No such comm: 218d9a4f330e4317b137be6e9ad316ea
+2024-11-17 19:54:41,681 - WARNING - No such comm: 2f9e71620c6046e7a9868c0a4ace2223
+2024-11-17 19:54:41,696 - WARNING - No such comm: e75d31e553d24c6abc79b71ca9a97bbd
+2024-11-17 19:54:41,712 - WARNING - No such comm: 09451589a14e4eef8cb090fed26a642f
+2024-11-17 19:54:41,728 - WARNING - No such comm: 267eb0664f764768947e09a6f6b83ee6
+2024-11-17 19:54:41,745 - WARNING - No such comm: 38b302820f314b6e93ec93fd63605407
+2024-11-17 20:29:21,024 - ERROR - ≥Ã–Ú÷¥–– ß∞‹: dimension valid_time on 0th function argument to apply_ufunc with dask='parallelized' consists of multiple chunks, but is also a core dimension. To fix, either rechunk into a single array chunk along this dimension, i.e., ``.chunk(dict(valid_time=-1))``, or pass ``allow_rechunk=True`` in ``dask_gufunc_kwargs`` but beware that this may significantly increase memory usage.
