@@ -1,0 +1,7 @@
+timestamp: 20250121_095000
+X_shape: (36656, 45018)
+y_shape: (36656,)
+X_path: /content/drive/MyDrive/weather_forecast_project/processed_data/processed_X_20250121_095000.npy
+y_path: /content/drive/MyDrive/weather_forecast_project/processed_data/processed_y_20250121_095000.npy
+sequence_length: 30
+chunk_size: 500
